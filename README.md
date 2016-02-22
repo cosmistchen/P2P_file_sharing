@@ -1,2 +1,2 @@
-# P2P_file_sharing_UF_CNT5106C
+# P2P_file_sharing
 A P2P file sharing application.
